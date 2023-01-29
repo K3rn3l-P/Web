@@ -32,7 +32,7 @@ Challenge
 
 The world of IT is complex. Smarter IT makes it simple.
 
-![](assets/img/22-min.jpg)
+![](assets/img/22-min.jpg)[](https://k3rn3l-p.github.io/k3rn3l.github.io/assets/img/El-Flako_22-min.jpghttps:/)
 
 ![](assets/img/17-min.jpg)
 
