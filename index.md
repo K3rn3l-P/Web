@@ -32,13 +32,49 @@ Challenge
 
 The world of IT is complex. Smarter IT makes it simple.
 
-[![](assets/img/22-min.jpg)](https://raw.githubusercontent.com/K3rn3l-P/Web/main/assets/img/22-min.jpg)
+---
 
-[![](assets/img/17-min.jpg)](https://raw.githubusercontent.com/K3rn3l-P/Web/main/assets/img/17-min.jpg)
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}
 
-[![](assets/img/2_1.jpg)](https://raw.githubusercontent.com/K3rn3l-P/Web/main/assets/img/2_1.jpg)
+img:hover {
+box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+</style>
 
-[![](assets/img/1_2.jpg)](https://raw.githubusercontent.com/K3rn3l-P/Web/main/assets/img/1_2.jpg)
+</head>
+<body>
+
+<h2>Thumbnail Image</h2>
+<p>Click on the image to enlarge it.</p>
+
+<a target="_blank" href="https://raw.githubusercontent.com/K3rn3l-P/Web/main/assets/img/22-min.jpeg">
+  <img src="https://raw.githubusercontent.com/K3rn3l-P/Web/main/assets/img/22-min.jpeg" alt="Forest" style="width:500px">
+</a>
+
+<a target="_blank" href="https://raw.githubusercontent.com/K3rn3l-P/Web/main/assets/img/17-min.jpg">
+  <img src="https://raw.githubusercontent.com/K3rn3l-P/Web/main/assets/img/17-min.jpg" alt="Forest" style="width:500px">
+</a>
+
+<a target="_blank" href="https://raw.githubusercontent.com/K3rn3l-P/Web/main/assets/img/2_1.jpg">
+  <img src="https://raw.githubusercontent.com/K3rn3l-P/Web/main/assets/img/2_1.jpg" alt="Forest" style="width:500px">
+</a>
+
+<a target="_blank" href="https://raw.githubusercontent.com/K3rn3l-P/Web/main/assets/img/1_2.jpg">
+  <img src="https://raw.githubusercontent.com/K3rn3l-P/Web/main/assets/img/1_2.jpg" alt="Forest" style="width:500px">
+</a>
+
+</body>
+</html>
+
+---
 
 Imagination is..
 
