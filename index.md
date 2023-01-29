@@ -32,112 +32,13 @@ Challenge
 
 The world of IT is complex. Smarter IT makes it simple.
 
-<!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
+[![](assets/img/22-min.jpg)](https://raw.githubusercontent.com/K3rn3l-P/Web/main/assets/img/22-min.jpg)
 
-body {
-margin: 0;
-font-family: Arial;
-}
+[![](assets/img/17-min.jpg)](https://raw.githubusercontent.com/K3rn3l-P/Web/main/assets/img/17-min.jpg)
 
-/_ The grid: Four equal columns that floats next to each other _/
-.column {
-float: left;
-width: 25%;
-padding: 10px;
-}
+[![](assets/img/2_1.jpg)](https://raw.githubusercontent.com/K3rn3l-P/Web/main/assets/img/2_1.jpg)
 
-/_ Style the images inside the grid _/
-.column img {
-opacity: 0.8;
-cursor: pointer;
-}
-
-.column img:hover {
-opacity: 1;
-}
-
-/_ Clear floats after the columns _/
-.row:after {
-content: "";
-display: table;
-clear: both;
-}
-
-/_ The expanding image container _/
-.container {
-position: relative;
-display: none;
-}
-
-/_ Expanding image text _/
-#imgtext {
-position: absolute;
-bottom: 15px;
-left: 15px;
-color: white;
-font-size: 20px;
-}
-
-/_ Closable button inside the expanded image _/
-.closebtn {
-position: absolute;
-top: 10px;
-right: 15px;
-color: white;
-font-size: 35px;
-cursor: pointer;
-}
-</style>
-
-</head>
-<body>
-
-<div style="text-align:center">
-  <h2>Tabbed Image Gallery</h2>
-  <p>Click on the images below:</p>
-</div>
-
-<!-- The four columns -->
-<div class="row">
-  <div class="column">
-    <img src="https://raw.githubusercontent.com/K3rn3l-P/Web/main/assets/img/22-min.jpg" alt="Nature" style="width:100%" onclick="myFunction(this);">
-  </div>
-  <div class="column">
-    <img src="https://raw.githubusercontent.com/K3rn3l-P/Web/main/assets/img/17-min.jpg" alt="Snow" style="width:100%" onclick="myFunction(this);">
-  </div>
-  <div class="column">
-    <img src="https://raw.githubusercontent.com/K3rn3l-P/Web/main/assets/img/2_1.jpg" alt="Mountains" style="width:100%" onclick="myFunction(this);">
-  </div>
-  <div class="column">
-    <img src="https://raw.githubusercontent.com/K3rn3l-P/Web/main/assets/img/1_2.jpg" alt="Lights" style="width:100%" onclick="myFunction(this);">
-  </div>
-</div>
-
-<div class="container">
-  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-  <img id="expandedImg" style="width:100%">
-  <div id="imgtext"></div>
-</div>
-
-<script>
-function myFunction(imgs) {
-  var expandImg = document.getElementById("expandedImg");
-  var imgText = document.getElementById("imgtext");
-  expandImg.src = imgs.src;
-  imgText.innerHTML = imgs.alt;
-  expandImg.parentElement.style.display = "block";
-}
-</script>
-
-</body>
-</html>
+[![](assets/img/1_2.jpg)](https://raw.githubusercontent.com/K3rn3l-P/Web/main/assets/img/1_2.jpg)
 
 Imagination is..
 
