@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal
+title: David
+description: Network Engineer by Cisco.
+logo: /assets/img/logo.png
+show_downloads: false
+google_analytics:
