@@ -32,9 +32,9 @@ Challenge
 
 The world of IT is complex. Smarter IT makes it simple.
 
-![](assets/img/El-Flako_22-min.jpg)
+![](assets/img/22-min.jpg)
 
-![](assets/img/El-Flako_17-min.jpg)
+![](assets/img/17-min.jpg)
 
 ![](assets/img/2_1.jpg)
 
