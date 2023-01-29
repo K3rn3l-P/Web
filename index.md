@@ -2,122 +2,48 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Hello,
 
-[Link to another page](./another-page.html).
+---
 
-There should be whitespace between paragraphs.
+My name is David and I’m a Network Administrator · Security . I have a passion for Network Security, Vulnerability and Technology in general. I dedicate myself to home automation hobby projects, I work as a Freelance and I am an active member in many communities such as: GitHub, Reddit, Wiki, Infosec, The Hacker News, Cisco, Fortinet, Rapid7, various linux communities etc.. I also love the open source code.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+I was born in Rome. So, I’m Italian and like all Italian people, I love pasta and pizza. And…of course, I always say “Mamma Mia!”
 
-# Header 1
+I graduated @ ITIS Vallauri School where I discovered my passion for Computer science, information science declined to Network Security and Penetration Testing and the whole IT world. I am currently studying at the Cisco Networking Academy where I am expanding my computer skills, I follow various information courses on Udemy, books etc.. and sometimes I dabble in sites like Hack The Box.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+And please, don't forget ... Networking is a set of tactics and best practices for dealing with user growth.
 
-## Header 2
+## IT Solution
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+---
 
-### Header 3
+The world of IT is complex. Smarter IT makes it simple.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Welcome
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+Our consultants at IT bring you smarter solutions that streamline technology so you can focus on your business. Our goal is to create strategic solutions to further your business growth.
 
-#### Header 4
+We help organizations improve their performance, operating primarily through the analysis of existing organizational problems and the development of plans for improvement. We have spent years learning best practices and growing through the complicated IT situations we have encountered.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+We want to offer strategy led IT management solutions that allow you to grow as a company while working smarter. We will make recommendations for more effective or efficient ways of performing work tasks when we see them. We will also point out the things that are effective and productive. We want to help your business grow.
 
-##### Header 5
+Challenge
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+The world of IT is complex. Smarter IT makes it simple.
 
-###### Header 6
+![](assets/img/El-Flako_22-min.jpg)
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+![](assets/img/El-Flako_17-min.jpg)
 
-### There's a horizontal rule below this.
+![](assets/img/2_1.jpg)
 
-* * *
+![](assets/img/1_2.jpg)
 
-### Here is an unordered list:
+Imagination is..
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+"Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution."
 
-### And an ordered list:
+> — Albert Einstei
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+When something is important enough, you do it even if the odds are not in your favor.
