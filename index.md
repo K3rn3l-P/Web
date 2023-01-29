@@ -32,13 +32,13 @@ Challenge
 
 The world of IT is complex. Smarter IT makes it simple.
 
-[![](assets/img/22-min.jpg)](https://k3rn3l-p.github.io/k3rn3l.github.io/assets/img/El-Flako_22-min.jpg)
+[![](assets/img/22-min.jpg)](https://k3rn3l-p.github.io/Web/assets/img/El-Flako_22-min.jpg)
 
-[![](assets/img/17-min.jpg)](https://k3rn3l-p.github.io/k3rn3l.github.io/assets/img/17-min.jpg)
+[![](assets/img/17-min.jpg)](https://k3rn3l-p.github.io/Web/assets/img/17-min.jpg)
 
-[![](assets/img/2_1.jpg)](https://k3rn3l-p.github.io/k3rn3l.github.io/assets/img/2_1.jpg)
+[![](assets/img/2_1.jpg)](https://k3rn3l-p.github.io/Web/assets/img/2_1.jpg)
 
-[![](assets/img/1_2.jpg)](https://k3rn3l-p.github.io/k3rn3l.github.io/assets/img/1_2.jpg)
+[![](assets/img/1_2.jpg)](https://k3rn3l-p.github.io/Web/assets/img/1_2.jpg)
 
 Imagination is..
 
