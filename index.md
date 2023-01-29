@@ -54,12 +54,12 @@ box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 <h2>Thumbnail Image</h2>
 <p>Click on the image to enlarge it.</p>
 
-<a target="_blank" href="https://raw.githubusercontent.com/K3rn3l-P/Web/main/assets/img/22-min.jpeg">
-  <img src="https://raw.githubusercontent.com/K3rn3l-P/Web/main/assets/img/22-min.jpeg" alt="Forest" style="width:500px">
-</a>
-
 <a target="_blank" href="https://raw.githubusercontent.com/K3rn3l-P/Web/main/assets/img/17-min.jpg">
   <img src="https://raw.githubusercontent.com/K3rn3l-P/Web/main/assets/img/17-min.jpg" alt="Forest" style="width:500px">
+</a>
+
+<a target="_blank" href="https://raw.githubusercontent.com/K3rn3l-P/Web/main/assets/img/22-min.jpeg">
+  <img src="https://raw.githubusercontent.com/K3rn3l-P/Web/main/assets/img/22-min.jpeg" alt="Forest" style="width:500px">
 </a>
 
 <a target="_blank" href="https://raw.githubusercontent.com/K3rn3l-P/Web/main/assets/img/2_1.jpg">
