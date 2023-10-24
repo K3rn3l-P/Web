@@ -79,6 +79,6 @@ Imagination is..
 
 "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution."
 
-> — Albert Einstei
+> — Albert Einstein
 
 When something is important enough, you do it even if the odds are not in your favor.
